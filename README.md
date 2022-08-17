@@ -23,7 +23,7 @@ My name is Anuj Bisht, a Front-End Developer from India. I am deeply in love wit
 ## ⚙️ Servers Used
 ![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
-<br><br><br>
+<br><br>
 
 
 
