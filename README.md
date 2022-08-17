@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/grab/front-end-guide/master/images/desk.png"/>
+<img src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-1981.jpg?w=2000"/>
 
 # Hello, I'm Anuj !
 
@@ -20,6 +20,8 @@ My name is Anuj Bisht, a Front-End Developer from India. I am deeply in love wit
 ## 🏠 Functional Front-End Languages
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## ⚙️ Servers Used
+![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
 <br><br><br>
 
