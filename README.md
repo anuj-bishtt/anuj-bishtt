@@ -5,7 +5,7 @@
 My name is Anuj Bisht, a Front-End Developer from India. I am deeply in love with websites, responsive webpages and remote work. Improving open-source projects, one commit at a time. You can on find me at [LinkedIn][3].
 
 
-
+<br><br><br><br>
 
 ## 💻 Operating Systems
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -21,12 +21,12 @@ My name is Anuj Bisht, a Front-End Developer from India. I am deeply in love wit
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<br><br>
+<br><br><br><br>
 
 
 
 ## &#x1f4c8; GitHub Stats
-
+<br><br>
 <a href="https://github.com/anuj-bishtt/anuj-bishtt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-bishtt&hide=html,css,scss&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=5" />
 </a>
