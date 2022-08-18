@@ -4,7 +4,7 @@ My name is Anuj Bisht, a Front-End Developer from India. I am deeply in love wit
 
 <br>
 
-<img src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-1981.jpg?w=2000"/>
+
 
 
 <br><br>
