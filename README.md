@@ -1,6 +1,6 @@
 # Hello, I'm Anuj !
 
-My name is Anuj Bisht, a Front-End Developer from India. I am deeply in love with websites, responsive webpages and remote work. Creating UI/UX Designs and converting PSD files to pixel perfect web pages is my passion. You can also contact me at [LinkedIn][3].
+I am Anuj Bisht, an Indian front-end developer. Websites, responsive webpages, and remote work have my heart. My interest is creating UI/UX Designs and turning PSD files into pixel-perfect web pages. You may reach me on LinkedIn as well. You can also contact me at [LinkedIn][3].
 
 <br>
 
