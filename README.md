@@ -28,10 +28,6 @@ I am Anuj Bisht, an Indian front-end developer. Websites, responsive webpages, a
 
 <br><br>
 
-
-
-## &#x1f4c8; GitHub Stats
-<br>
 <a href="https://github.com/anuj-bishtt/anuj-bishtt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-bishtt&hide=html,css,scss&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=5" />
 </a>
